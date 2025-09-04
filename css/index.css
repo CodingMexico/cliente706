@@ -32,7 +32,7 @@ body {
 
 
 
-#section1 {background-color: #90acff; height: 110vw; width: 100vw;}
+#section1 {background-color: #c0acff; height: 110vw; width: 100vw;}
 #section1h1 {
     position: relative; top: 34vw;
 
@@ -59,7 +59,7 @@ body {
   cursor: pointer;           
   transition: all 0.3s ease; 
 
-  position: relative; top: -33vw; left: 8vw;
+  position: relative; top: -33vw; left: vw;
 }
 
 #section1button1:hover {
@@ -104,7 +104,7 @@ body {
 
 #section2 {
     position: relative;
-    height: 106vw;
+    height: 91vw;
     width: 100vw;
     background-color: #c5b0ff;
 
@@ -148,7 +148,7 @@ text-align:center;
 padding:1rem 1rem;
 background-color: none;
 position: relative; 
-top: -6vw;
+top: -7.5vw;
 
 }
 .wave{
@@ -210,8 +210,8 @@ transform-origin:center 80%;
   
   
   position: relative;
-  top: 7vw;
-  left: -16vw;
+  top: 5vw;
+  left: -9.5vw;
 }
 
 .frame {
@@ -363,7 +363,7 @@ button {
 }
 
 #section2p3 {
-    position: relative; top: -8vw; text-align: center;
+    position: relative; top: -11vw; text-align: center;
      font-size: 6vw; 
     color: #9570f9;
     font-family: "Paytone One", sans-serif;
@@ -562,9 +562,6 @@ button {
   font-style: normal;
   color: #ad94fa;
 }
-
-
-
 
 
 
